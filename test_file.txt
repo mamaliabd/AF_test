@@ -10,7 +10,7 @@ int main (){
 
 // rajesh added
 
-// Mohammad Added some new line!
+// Mohammad Added some new line
 
 return 0;
 }
